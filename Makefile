@@ -8,8 +8,9 @@
 setup:
 	# Create python virtualenv & source it
 	# source ~/.devops/bin/activate
-	#python3 -m venv ~/.devops
-	conda activate udacity_project
+	python3 -m venv ~/.devops
+	#conda activate udacity_project
+	source ~/.devops/bin/activate
 
 install:
 	# This should be run from inside a virtualenv
