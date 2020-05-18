@@ -15,4 +15,4 @@
 [![CircleCI](https://app.circleci.com/github/davincizhao/devopseng/davincizhao-patch-1?style=shield)](https://app.circleci.com/pipelines/github/davincizhao/devopseng/7/workflows/e459b683-7bc6-4ff5-a175-4a6890c9c04c/jobs/12)
 
 
-[![CircleCI](https://circleci.com/github/davincizhao/devopseng/tree/davincizhao-patch-1.svg?style=svg)]
+[![CircleCI](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1.svg?style=svg)]
