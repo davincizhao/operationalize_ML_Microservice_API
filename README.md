@@ -12,4 +12,4 @@
 
 ## Project build and test results:
 
-[![CircleCI](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1.svg?style=svg)]
+[![CircleCI](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1.svg?style=svg)](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1)
