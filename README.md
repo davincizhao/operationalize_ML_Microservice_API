@@ -1,12 +1,23 @@
-# operationalize a Machine Learning Microservice API.
+# Operationalize a Machine Learning Microservice API.
 Using Cloud Circle CI to build a Machine Learning Docker API
-[Circle CI Project Link](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1)
+## Project background
+This project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. In this project you will:
+
+Test your project code using linting
+Complete a Dockerfile to containerize this application
+Deploy your containerized application using Docker and make a prediction
+Improve the log statements in the source code for this application
+Configure Kubernetes and create a Kubernetes cluster
+Deploy a container using Kubernetes and make a prediction
+Upload a complete Github repo with CircleCI to indicate that your code has been tested
+
 
 ## How to run python scripts
 cmd: "sudo docker run -it app bash"
 cmd: "./make_prediction.sh"
 
 ## Explanation of the files
+### .circleci/config.yaml : circle ci config file for workflow and pipeline.
 ### Dockerfile : this is docker configuration file to build and run image.
 ### Makefile: this is Makefile to setup environment in runtime at first. 
 ### And test docker's configureation file and pylint to test python script code.
