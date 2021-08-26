@@ -1,5 +1,7 @@
 # operationalize a Machine Learning Microservice API.
-[![CircleCI](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1.svg?style=svg)](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1)
+Using Cloud Circle CI to build a Machine Learning Docker API
+[Circle CI Project Link](https://circleci.com/gh/davincizhao/devopseng/tree/davincizhao-patch-1)
+
 ## How to run python scripts
 cmd: "sudo docker run -it app bash"
 cmd: "./make_prediction.sh"
